@@ -10,15 +10,11 @@ A home interface application written in C to:
 
 ### Login test
 
----
-
 ![test](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/test.gif)
 
 
 
 ### Screens
-
----
 
 ![screens](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/screens.png)
 
@@ -26,15 +22,11 @@ A home interface application written in C to:
 
 ### Circuit
 
----
-
 ![circuit](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/circuit.png)
 
 
 
 ### Developers
-
----
 
 [Bruna Yukari Fujii Yoshida](https://github.com/brunayfy)
 
