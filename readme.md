@@ -12,7 +12,7 @@ A home interface application written in C to:
 
 ---
 
-![test](/home/az/Desktop/home_interface/images/test.gif)
+![test](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/test.gif)
 
 
 
@@ -20,7 +20,7 @@ A home interface application written in C to:
 
 ---
 
-![screens](/home/az/Desktop/home_interface/images/screens.png)
+![screens](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/screens.png)
 
 
 
@@ -28,7 +28,7 @@ A home interface application written in C to:
 
 ---
 
-![circuit](/home/az/Desktop/home_interface/images/circuit.png)
+![circuit](https://raw.githubusercontent.com/matheuscnali/home_interface/master/images/circuit.png)
 
 
 
