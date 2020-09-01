@@ -36,6 +36,6 @@ A home interface application written in C to:
 
 ---
 
-Bruna Yukari Fujii Yoshida
+[Bruna Yukari Fujii Yoshida](https://github.com/brunayfy)
 
-Matheus Carvalho Nali
+[Matheus Carvalho Nali](https://github.com/matheuscnali)
